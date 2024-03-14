@@ -1,3 +1,5 @@
+FARMER'S BUDDY - A GUIDE TO FARMING 
+
 This system is designed to assist farmers by providing crop and fertilizer suggestions based on soil analysis. It also offers guidance on various farming schemes. The system incorporates a user-friendly graphical user interface (GUI) and features a login/signup mechanism for user data management. The development primarily utilizes Java for system development and MySQL for database operations. The tools employed include MySQL Workbench for database management and Eclipse for Java development.
 
 Key Components:
